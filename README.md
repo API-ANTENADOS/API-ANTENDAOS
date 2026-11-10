@@ -1,4 +1,4 @@
-# API - Logística e Telecomunicações SJC
+# API - Antenados
 
 Bem-vindo ao perfil do projeto de *Logística em Telecomunicações em São José dos Campos*. Somos uma equipe dedicada ao desenvolvimento do API (Aprendizagem por Projetos Integradores) do curso de Gestão de Produção Industrial (GPI) da FATEC Prof° Jessen Vidal.
 
